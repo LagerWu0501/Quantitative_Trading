@@ -1,0 +1,7 @@
+{
+"API_key": "QWQdYEy85cFvsmmut05waMddNPv0UgU0VPK9tQLUvFwKAlB3DfaPuk1uuEPQEdZp", 
+"Secret_key": "xVJkZxGsVXUfkX6ybvUn3ebE2gPgPHzqRWu6O7kG3ALZUo0WFL70nDMviGOy0NTy", 
+"Trading_Office_Parameters": {"Trading_Office_Name": "Binance", "Symbol": "ETHUSDT", "leverage": 1, "Parameters": {"timeframe": "5m", "startDate": "1 month ago UTC"}},
+"Strategy_Parameters": {"Strategy_Name": "EMA_Strategy", "short_period":1,
+"long_period":2}
+}
