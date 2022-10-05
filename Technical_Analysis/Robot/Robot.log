@@ -1,8 +1,8 @@
 
 +++++++++++++++++++++++
 Time: 2022-07-21 19:47:28.156085
-API: QWQdYEy85cFvsmmut05waMddNPv0UgU0VPK9tQLUvFwKAlB3DfaPuk1uuEPQEdZp
-Secret: xVJkZxGsVXUfkX6ybvUn3ebE2gPgPHzqRWu6O7kG3ALZUo0WFL70nDMviGOy0NTy
+API: 
+Secret: 
 =======================
 Strategy Name: EMA_Strategy
 Strategy Parameter: {'Strategy_Name': 'EMA_Strategy', 'short_period': 40, 'long_period': 150}
@@ -16,8 +16,8 @@ Money: 728.13982755 Storage: {'BTC': 0.0, 'ETH': 0.0}
 
 +++++++++++++++++++++++
 Time: 2022-07-21 23:47:28.935596
-API: QWQdYEy85cFvsmmut05waMddNPv0UgU0VPK9tQLUvFwKAlB3DfaPuk1uuEPQEdZp
-Secret: xVJkZxGsVXUfkX6ybvUn3ebE2gPgPHzqRWu6O7kG3ALZUo0WFL70nDMviGOy0NTy
+API: 
+Secret: 
 =======================
 Strategy Name: EMA_Strategy
 Strategy Parameter: {'Strategy_Name': 'EMA_Strategy', 'short_period': 40, 'long_period': 150}
@@ -31,8 +31,8 @@ Money: 728.13982755 Storage: {'BTC': 0.0, 'ETH': 0.0}
 
 +++++++++++++++++++++++
 Time: 2022-07-22 03:47:29.703483
-API: QWQdYEy85cFvsmmut05waMddNPv0UgU0VPK9tQLUvFwKAlB3DfaPuk1uuEPQEdZp
-Secret: xVJkZxGsVXUfkX6ybvUn3ebE2gPgPHzqRWu6O7kG3ALZUo0WFL70nDMviGOy0NTy
+API: 
+Secret: 
 =======================
 Strategy Name: EMA_Strategy
 Strategy Parameter: {'Strategy_Name': 'EMA_Strategy', 'short_period': 40, 'long_period': 150}
@@ -46,8 +46,8 @@ Money: 728.13982755 Storage: {'BTC': 0.0, 'ETH': 0.0}
 
 +++++++++++++++++++++++
 Time: 2022-07-22 07:47:30.513016
-API: QWQdYEy85cFvsmmut05waMddNPv0UgU0VPK9tQLUvFwKAlB3DfaPuk1uuEPQEdZp
-Secret: xVJkZxGsVXUfkX6ybvUn3ebE2gPgPHzqRWu6O7kG3ALZUo0WFL70nDMviGOy0NTy
+API: 
+Secret: 
 =======================
 Strategy Name: EMA_Strategy
 Strategy Parameter: {'Strategy_Name': 'EMA_Strategy', 'short_period': 40, 'long_period': 150}

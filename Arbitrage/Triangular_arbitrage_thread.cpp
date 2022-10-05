@@ -81,8 +81,8 @@ void handle_curl(myCURL &curl){
     return;
 }
 
-// string api = "7chcOVGdbCgsrfkvAiP5rSJl1omPylJWV5TlbF2nbm7Fd0HbpgiMCuftxVxeGfIf";
-// string secret = "1JAhH6u4jI2jtlfEZohcWFeRX9DQkgIw5wWOx5ENxA15vC1DbDLHA5MLCO13rkYA";
+// string api = "";
+// string secret = "";
 int main(){
     string URL_1 = "https://api.binance.com/api/v3/depth?symbol=BTCUSDT&limit=100";
     string URL_2 = "https://api.binance.com/api/v3/depth?symbol=ETHUSDT&limit=100";

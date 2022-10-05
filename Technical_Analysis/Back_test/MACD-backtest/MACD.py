@@ -104,7 +104,7 @@ target_symbol = ["BTC"]
 time_frames = ["1d", "12h", "6h", "4h", "2h", "1h"]
 time_frames = ["12h"]
 start_str = "1 year ago UTC"
-client = Client("Fmrs52YBNKoZteqjPdRZaykPWxTvQfnGiEAIDXLvUZKKXD4v86GT9E5IyutPVmHC", "Nm1AvQxIiZ6wgWeso5tMDa5SzyvOssOrJHU5Hdi9tKxOwb2XYenHZCsyQtjdBib1")
+client = Client("", "")
 res = []
 for timeframe in time_frames:
     for short_period in range(5, 25):
